@@ -6,4 +6,4 @@ Tools i have used
 -> STYLED COMPNONENTS
 -> BOOTSTRAP
 -> REACT Context API
--> Headless 
+-> Contentfull 
